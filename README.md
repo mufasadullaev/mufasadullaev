@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Muftullo Sadullaev
+- 👀 I’m interested in Artificial Intelligence and Web Technologies.
+- 🌱 I’m currently learning Python, C# and JavaScript
+- 📫 How to reach me -> eMail mufasadullaev@gmail.com, Telegram @imyouruncle, Instagram @mufa4tostoboy
