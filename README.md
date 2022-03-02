@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muftullo Sadullaev.
-- 👀 I’m interested in C# and Mobile Development.
+- 👀 I’m interested in Web and Mobile Development.
 - 🌱 I’m currently learning C# and Android Development with Java.
 - 📫 How to reach me -> eMail mufasadullaev@gmail.com, Telegram @dontdisturbmufa, Instagram @mufa4tostoboy.
