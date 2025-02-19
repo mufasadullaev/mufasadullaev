@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muftullo Sadullaev.
-- 👀 I’m interested in various fields of software development.
-- 🌱 I’m currently learning C# and Web Development with ReactJS.
-- 📫 How to reach me -> eMail mufasadullaev@gmail.com, Telegram @dontdisturbmufa, Instagram @mufa4tostoboy.
+- 👀 I’m an enthusiastic full-stack Web Developer.
+- 🌱 I never stop learning and currently working on my C# and PHP knowledge. Also, writing an e-commerce app on React JS.
+- 📫 How to reach me -> eMail mufasadullaev@gmail.com, Telegram @mfsadullaev, Instagram @mfsadullaev.
