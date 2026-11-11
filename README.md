@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Muftullo Sadullaev.
-- 👀 I’m an enthusiastic full-stack Web Developer.
-- 🌱 I never stop learning and currently working on my C# and PHP knowledge. Also, writing an e-commerce app on React JS.
+- 👀 Currently, CTO at UzEngineering.
 - 📫 How to reach me -> eMail mufasadullaev@gmail.com, Telegram @mfsadullaev, Instagram @mfsadullaev.
